@@ -14,16 +14,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- 🥈 2nd Place – Zomato CTF Challenge 2023
-- 🥇 1st Place – Glance TVOLUTION Challenge 2022
-- 🧠 GATE Rank: 5934
-- ⚡ CodeChef Max Rating: 1845 (4⭐)
-- 🧪 Ranked Top 100 – Hackerrank HackFest
-
----
-
 ## 📫 Let's Connect
 
 If you're into DevEx, infra automation, or just love clean backend architecture — feel free to connect or collaborate!
