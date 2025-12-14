@@ -5,5 +5,5 @@
 
 ## 📫 Let's Connect
 
-If you're into DevEx, infra automation, or just love clean backend architecture — feel free to connect!
+If you're into DevEx, Infra, or just love clean backend architecture — feel free to connect!
 
